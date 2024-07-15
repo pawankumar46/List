@@ -86,7 +86,7 @@ export default function HomeScreen() {
           }}>
             <View >
             <Text style={{fontSize:16, fontWeight:"800", fontStyle:"italic", textAlign: "center", marginTop: 5}}>{item.name}</Text>
-            <Text style={{width: "50%", marginLeft: 30 , marginTop:10}}>   CEO -- {item.ceo}</Text>
+            <Text style={{width: "50%", marginLeft: 30 , marginTop:10}}> CEO -- {item.ceo}</Text>
             </View>
                  
           </View>
